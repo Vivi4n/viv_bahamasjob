@@ -1,9 +1,9 @@
 # viv_bahamasjob
 
-Viv bahamas job
+Viv's bahamas job. Most of this is custom coded.
 
 
-[REQUIREMENTS]
+# Requirements
 
 * Player management (billing and boss actions)
   * esx_society => https://github.com/ESX-Org/esx_society
@@ -17,7 +17,7 @@ Viv bahamas job
   * You need to add animations + items effects (basicneeds, optionnalneeds) for an optimal experience.
 
 
-[INSTALLATION]
+# Installation
 
 1) CD in your resources/[esx] folder
 
@@ -94,7 +94,7 @@ end)
 ```
 
    
-[FEATURES]
+# Features
 
 * Bahamas Job job
   * Fully customizable job
@@ -111,7 +111,7 @@ end)
 
 
 
-[SHOPS (HARVESTING) AREAS]
+# Shops, harvesting areas
 
 * Alcoholic drinks => https://i.imgur.com/CIrpHfm.png
 * Non-alcoholic drinks => https://i.imgur.com/QC3UeA2.png
