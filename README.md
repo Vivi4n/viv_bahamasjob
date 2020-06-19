@@ -23,7 +23,7 @@ Viv's bahamas job. Most of this is custom coded.
 
 3) Import esx_bahamasjob.sql in your database
 
-4) Add this in your server.cfg :
+4) Add this in your server.cfg:
 
 ```
 start esx_bahamasjob
@@ -96,18 +96,17 @@ end)
    
 # Features
 
-* Bahamas Job job
+* Bahamas Job
   * Fully customizable job
   * Boss, Bartender, Dancer grades
   * Cloakroom, Vault, Fridge, Vehicles, BossActions
   * Cloakroom : Dancer clothing with special movement effect, multiple clothes for men or women
   * Shops (harvesting) for components (alcoholic drinks, appetizers, non-alcoholic drinks)
-  * Crafting menu for Bosses + Bartender (only with the right clothing) : coktails, mix appetizers
+  * Crafting menu for bosses and bartenders (only with the right clothing): cocktails, mix appetizers
   * Spawning car without dust
   * Teleport marker to be behind the bar
-  * Players can miss the crafting part (~10% miss) and lose the components used
+  * Players can miss the crafting part (~10% miss) and lose the components used for crafting.
   * Billing menu
-  * Girl are not supplied
 
 
 
